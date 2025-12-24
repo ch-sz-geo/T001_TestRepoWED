@@ -2,9 +2,9 @@
 === Ziel und Zweck
 Dieses Dokument beschreibt den Geobasisdatensatz
  
-* *__<Name des Datensatzes>__.*
+* *__2. Test Reository__.*
 
-__<weitere Beschreibungen>__
+__Dies ist ein Test Repository ohne enthaltene Daten__
 
 Der Geobasisdatensatz ist Bestandteil des ÖREB-Katasters.
 
