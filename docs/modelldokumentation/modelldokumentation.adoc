@@ -1,5 +1,5 @@
 // Hier den Titel eingeben
-:title: <Themenname> (<Themen-Nummer>)
+:title: 2. Test Reopsitory (T001)
 :subtitle: Modelldokumentation
 ifdef::backend-pdf[]
 = {title}
@@ -34,13 +34,6 @@ image:../../themes/logo_kt_sz_rgb.jpg[]
 = {title}
 [.subtitle]#{subtitle}# +
 
-****
-
-* https://ch-sz-geo.github.io/A000_entrypage/[zur Startseite] +
-* https://amandawetter.github.io/A000_Rebuild/[Übersicht AXXX Dokumentation] +
-* https://amandawetter.github.io/A000_Rebuild/docs/modelldokumentation.pdf[Dokumentation als PDF] +
-
-****
 endif::[]
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
