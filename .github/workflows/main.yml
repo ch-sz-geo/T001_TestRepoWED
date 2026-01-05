@@ -46,7 +46,7 @@ jobs:
         run: asciidoctor --version
       - name: create file
         run: |
-          asciidoctor -a stylesdir=https://ch-sz-geo.github.io/T000_TestDefaultStylesWED/themes/ -a stylesheet=stylesheet.css -a linkcss -o ./docs/modelldokumentation.html ./docs/modelldokumentation/modelldokumentation.adoc
+          asciidoctor -o ./docs/modelldokumentation.html ./docs/modelldokumentation/modelldokumentation.adoc
           asciidoctor -o ./docs/erfassungsrichtlinien.html ./docs/erfassungsrichtlinien/erfassungsrichtlinien.adoc
       - name: install Asciidoc Pdf
         run: gem install asciidoctor-pdf
